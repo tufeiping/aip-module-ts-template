@@ -2,7 +2,7 @@
  * Audit Information Platform Component Template
  * AIP 组件库
  * 2022-06
- * Sunny <tufpsj@yonyou.com>
+ * Sunny
  ****************************************************/
 
 // -----AIP Module Template-----
