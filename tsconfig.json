@@ -5,7 +5,6 @@
         "jsx": "react",
         "declaration": true,
         "outDir": "./dist",
-        "rootDir": "./src",
         "allowJs": true,
         "forceConsistentCasingInFileNames": true,
         "moduleResolution": "node",

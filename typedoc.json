@@ -1,0 +1,10 @@
+{
+	"entryPoints": ["src/index.ts"],
+	"out": "./docs",
+	"name": "AIP-Module-Template API",
+	"theme": "hierarchy",
+	"readme": "./README.md",
+	"hideGenerator": true,
+	"excludePrivate": true,
+	"includeVersion": true 
+}
